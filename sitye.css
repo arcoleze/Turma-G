@@ -3,6 +3,10 @@
     padding: 0px;
  }
 
+ body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
 header {
     background-color: #6096B4;
     color: #EEE9DA;
@@ -25,7 +29,29 @@ header {
     margin: 100px;
     padding: 20px;
     display: inline-block;
-    color: #0E0667;
-    
+    color: #0E0667;   
 }
 
+.galeria {
+    background-color: #BDCDD6;
+    color: #0B5279;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+}
+
+.galeria-fotos1 {
+    width: 15%;
+    height: 15%;
+
+}
+
+.galeria-fotos2 {
+    width: 25%;
+    height: 35%;
+}
+
+.galeria-titulo {
+    padding-top: 30px;
+    font-size: 36px;
+}
