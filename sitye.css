@@ -55,3 +55,13 @@ header {
     padding-top: 30px;
     font-size: 36px;
 }
+
+.rodape {
+    background-color: #EEE9DA;
+    height: 20px;
+    font-size: 20px;
+    color:#4499C8;
+    display: inline-block;
+    padding: 15px;
+
+}
